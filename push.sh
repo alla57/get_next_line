@@ -1,4 +1,3 @@
-echo $1
 git add --all
-git commit -m "$1"
-git push
+git commit -m "automated push"
+git push 
